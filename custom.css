@@ -1,0 +1,63 @@
+.table-bordered {
+	background-color: #F2F8FF;
+	text-align: center;
+	margin-top: 60px;
+}
+
+.carousel {
+	margin-top: 50px;
+}
+
+.jumbotron {
+	background-color:#FAF2CC;
+	padding-top: 7%;
+	color:#245580;
+}
+
+.tytul {
+	margin-top: 80px;
+}
+
+.btn {
+	background-color: blue;
+	display: center;
+	margin-bottom: 10%;
+	padding: 10px 20px 10px 20px;
+}
+
+.new {
+	margin-top: 5px;
+	background-color: #449D44;
+	padding: 10px 20px 10px 20px;
+	border-radius: 4px;
+}
+
+.city {
+	height: 540px;
+	width: 960px;
+}
+
+.historia {
+	color: black;
+	border-radius: 4px;
+	text-decoration: none;
+	background-color:#5BC0DE;
+	padding: 10px 20px 10px 20px;
+}
+
+#map { 
+	display: block;
+	height: 600px;
+}
+
+th {
+	text-align: center;
+}
+
+body {
+	background-color:#FAF2CC;
+    font-family: Verdana,Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42857;
+    color: #333;
+}
